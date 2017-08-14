@@ -22,6 +22,6 @@ void coredump_case1()
 int main(int argc, char *argv[])
 {
 	printf("main function\n");
-	//coredump_case1();
+	coredump_case1();
 	return 0;
 }
